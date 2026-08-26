@@ -69,6 +69,24 @@
       "uuid": "40ecf9ad-4e71-5bb5-8603-0f73303dfec6"
     },
     {
+      "value": "2y",
+      "expanded": "2 years",
+      "numerical_value": 720,
+      "uuid": "8691e986-3d98-4e34-b42a-bf85aafc39e1"
+    },
+    {
+      "value": "3y",
+      "expanded": "3 years",
+      "numerical_value": 1095,
+      "uuid": "6c76bf7b-52e3-45c0-a392-810fe8e5e907"
+    },
+    {
+      "value": "5y",
+      "expanded": "5 years",
+      "numerical_value": 1825,
+      "uuid": "484f3696-5a1b-4f91-91dc-8b0321e64a58"
+    },
+    {
       "value": "10y",
       "expanded": "10 year",
       "numerical_value": 3650,

@@ -455,7 +455,7 @@
     },
     {
       "description": "A taxonomy based on NIST AI 600-1 (July 2024), Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile. Covers the risks unique to or exacerbated by Generative AI, their mapped Trustworthy AI Characteristics, and the primary GAI considerations derived from the NIST Generative AI Public Working Group.",
-      "name": "nist-ai-600-1",
+      "name": "gen-ai-risks",
       "version": 1
     },
     {

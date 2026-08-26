@@ -124,9 +124,9 @@
       "version": 1
     },
     {
-      "description": "Internal taxonomy for CCCS.",
+      "description": "CCCS Custom Taxonomy",
       "name": "cccs",
-      "version": 2
+      "version": 12
     },
     {
       "description": "European Union (EASA) Drone Classification - C0 to C6.",

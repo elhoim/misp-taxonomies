@@ -32,11 +32,11 @@
           },
           "uuid": {
             "$ref": "#/defs/non-empty-string"
-          },
-          "required": [
-            "value"
-          ]
-        }
+          }
+        },
+        "required": [
+          "value"
+        ]
       }
     },
     "values": {
@@ -90,11 +90,11 @@
           },
           "uuid": {
             "$ref": "#/defs/non-empty-string"
-          },
-          "required": [
-            "value"
-          ]
-        }
+          }
+        },
+        "required": [
+          "value"
+        ]
       }
     }
   },
